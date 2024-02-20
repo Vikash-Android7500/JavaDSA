@@ -1,4 +1,4 @@
-package basicProgram.VaribleInputOutpu;
+package basicProgram;
 
 public class TwoNumberAdd {
      public static void main(String[] args) {

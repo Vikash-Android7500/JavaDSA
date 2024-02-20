@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class Calculate {
 
      /** @@@@@ डेली एक Subject पर टाइम देना है
